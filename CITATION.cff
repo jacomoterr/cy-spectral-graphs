@@ -1,0 +1,26 @@
+# CITATION.cff
+cff-version: 1.2.0
+title: "Spectral Graphs on Calabi--Yau Manifolds"
+message: "If you use this software, please cite it using the DOI or the BibTeX entry."
+authors:
+  - family-names: Monakhov
+    given-names: Evgeny
+    affiliation: VOSCOM Research Initiative
+    orcid: https://orcid.org/0009-0003-1773-5476
+    affiliation-url: https://voscom.online
+    email: 5022826@gmail.com
+    url: https://github.com/jacomoterr
+    github: jacomoterr
+version: 1.0.0
+doi: 10.5281/zenodo.17050352
+url: https://github.com/jacomoterr/cy-spectral-graphs
+repository-code: https://github.com/jacomoterr/cy-spectral-graphs
+license: MIT, CC-BY-4.0
+keywords:
+  - spectral graph theory
+  - Calabi-Yau manifolds
+  - Hodge numbers
+  - quantum computation
+  - CYbits
+  - meta-quantum
+date-released: 2025-09-01

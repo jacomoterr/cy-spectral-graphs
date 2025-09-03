@@ -1,0 +1,9 @@
+# requirements.txt
+# Dependencies for numerical experiments in cy-spectral-graphs
+
+numpy>=1.21.0           # Fundamental package for array computing
+scipy>=1.7.0            # Scientific computing and advanced math operations
+matplotlib>=3.4.0       # Plotting and visualization
+networkx>=2.6           # Graph theory and network analysis
+jupyter>=1.0.0          # Interactive notebooks (optional)
+sympy>=1.8              # Symbolic mathematics (optional)
