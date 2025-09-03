@@ -11,9 +11,9 @@ The project is part of the **LLC "VOSCOM ONLINE" Research Initiative** and aims 
 
 ## 🛠 Repository Structure
 - `paper/` — preprints (LaTeX and PDF)  
-- `code/` — numerical experiments (Python, C++, etc.)  
-- `data/` — example input and output datasets (spectra, discretizations)  
-- `figures/` — plots and illustrations  
+- `code/` — (Research) numerical experiments (Python, C++, etc.)  
+- `data/` — (Research) example input and output datasets (spectra, discretizations)  
+- `figures/` — (Research) plots and illustrations  
 - `README.md` — project description  
 - `LICENSE` — license (recommended CC-BY 4.0 for papers and MIT for code)
 
@@ -51,9 +51,9 @@ RU:
 
 ## 🛠 Структура репозитория
 - `paper/` — препринты (LaTeX и PDF)  
-- `code/` — численные эксперименты (Python, C++ и др.)  
-- `data/` — примеры входных и выходных данных (спектры, дискретизации)  
-- `figures/` — графики и иллюстрации  
+- `code/` — (в разработке) численные эксперименты (Python, C++ и др.)  
+- `data/` — (в разработке) примеры входных и выходных данных (спектры, дискретизации)  
+- `figures/` — (в разработке) графики и иллюстрации  
 - `README.md` — описание проекта  
 - `LICENSE` — лицензия (рекомендуется CC-BY 4.0 для текстов и MIT для кода)  
 
